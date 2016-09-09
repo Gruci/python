@@ -4,3 +4,5 @@ while selected not in ['가위','바위','보']:
     selected = input('가위,바위,보 중에 선택하세요> ')
 
 print('선택된 값은:',selected)
+
+#break 와 contine의 사용방법은 타 언어와 똑같음
