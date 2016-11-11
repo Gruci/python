@@ -11,6 +11,7 @@ class Human():
     def __str__(self):
         '''문자열화함수'''
         return "{} (몸무게 {}kg)".format(self.name, self.weight)
+        #해당 인스턴스를 출력 할 때의 형식을 지정
 
     '''
     def create(name,weight):
