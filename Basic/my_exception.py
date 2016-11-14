@@ -1,6 +1,6 @@
 from UnexpectedRSPValue import UnexpectedRSPValue
 
-alue = '가'
+value = '가'
 
 try:
     if value not in ['가위','바위','보']:
